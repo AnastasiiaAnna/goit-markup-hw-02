@@ -42,7 +42,12 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.address-link:hover,
+.header-link:hover,
+.address-link:hover {
+  color: #404bbf;
+}
+
+.header-link:focus,
 .address-link:focus {
   color: #404bbf;
 }
