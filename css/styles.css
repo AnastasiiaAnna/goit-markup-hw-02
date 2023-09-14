@@ -5,6 +5,14 @@ body {
   font-style: normal;
 }
 
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .header-logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
