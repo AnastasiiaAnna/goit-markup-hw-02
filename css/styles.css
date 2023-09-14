@@ -43,12 +43,12 @@ ul {
 }
 
 .header-link:hover,
-.address-link:hover {
+.header-link:focus {
   color: #404bbf;
 }
 
-.header-link:focus,
-.address-link:focus {
+.address .address-link:hover,
+.address .address-link:focus {
   color: #404bbf;
 }
 
