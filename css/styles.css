@@ -88,7 +88,6 @@ ul {
   letter-spacing: 0.04em;
   cursor: pointer;
   background: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .main-space-btn:hover,
@@ -195,12 +194,6 @@ ul {
 
 .item-studio {
   color: #f4f4fd;
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .footer-text {
